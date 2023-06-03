@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'LittleLemonAPI.apps.LittlelemonapiConfig',
+    'restaurant.apps.restaurantConfig',
     'rest_framework.authtoken',
     'djoser',
 ]
